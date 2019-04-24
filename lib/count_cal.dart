@@ -6,9 +6,9 @@ import 'package:http/http.dart' as http;
 import 'package:flutter_app/InitTree.dart';
 import 'package:flutter_app/navigation_view.dart';
 import 'package:flutter_app/zxj_app.dart';
-void main() => runApp(new MyApp());
+void main() => runApp(new Count_APP());
 
-class MyApp extends StatelessWidget {
+class Count_APP extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // TODO: implement build

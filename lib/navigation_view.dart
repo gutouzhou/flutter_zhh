@@ -108,7 +108,7 @@ class BottomNavigationWidgetState extends State<BottomNavigationWidget> {
   }
 }
 
-void main() => runApp(new MyApp());
+void main() => runApp(new NavigationApp());
 
 class NavigationApp extends StatelessWidget {
   @override

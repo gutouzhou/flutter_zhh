@@ -1,11 +1,14 @@
 import 'package:flutter/material.dart';
-
+import 'package:flutter_app/zxj_app.dart';
+import 'package:flutter_app/navigation_view.dart';
+import 'package:flutter_app/count_cal.dart';
 void main() =>
-    runApp(MyApp(items: new List<String>.generate(30, (i) => 'Item $i'))
-    );
+//    runApp(MyApp(items: new List<String>.generate(30, (i) => 'Item $i'))
+    runApp(Count_APP());
 
 class MyApp extends StatelessWidget {
   final List<String> items;
+
 //带参数的构造函数
   MyApp({Key key, @required this.items}) : super(key: key);
 
@@ -61,7 +64,6 @@ class MyApp extends StatelessWidget {
           ),
         ),
       ),
-
     );
   }
 }
