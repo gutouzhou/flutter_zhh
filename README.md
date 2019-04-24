@@ -6,10 +6,8 @@
 
 代码比较简单，这是玩了2天写出来的代码，比较容易看得懂。
 
-![image](https://github.com/gutouzhou/flutter_zhh/blob/master/pay_image/alipay_pay.jpg)
-
-
-![image](https://github.com/gutouzhou/flutter_zhh/blob/master/pay_image/wechat_pay.jpg)
 <img src="https://github.com/gutouzhou/flutter_zhh/blob/master/pay_image/wechat_pay.jpg" width=375>
 <img src="https://github.com/gutouzhou/flutter_zhh/blob/master/pay_image/alipay_pay.jpg" width=375>
+
+
 不要给我面子，我不要脸了，快用钱打我脸
