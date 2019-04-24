@@ -10,5 +10,6 @@
 
 
 ![image](https://github.com/gutouzhou/flutter_zhh/blob/master/pay_image/wechat_pay.jpg)
-
+<img src="https://github.com/gutouzhou/flutter_zhh/blob/master/pay_image/wechat_pay.jpg" width=375>
+<img src="https://github.com/gutouzhou/flutter_zhh/blob/master/pay_image/alipay_pay.jpg" width=375>
 不要给我面子，我不要脸了，快用钱打我脸
